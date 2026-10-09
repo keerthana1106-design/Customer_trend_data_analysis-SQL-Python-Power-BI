@@ -66,6 +66,7 @@ Cleaned data was migrated into an operational database via SQLAlchemy. Key opera
 
 
 
+
 \### 3. Executive Dashboard Design (Power BI)
 
 Built a dynamic corporate report to communicate findings instantly to leadership:
@@ -75,11 +76,12 @@ Built a dynamic corporate report to communicate findings instantly to leadership
 \* \*Demographics Map:\* Interactive visual slice filtering behavior by Age Group, Gender, and Season.
 
 \* \*Loyalty \& Channel Drill-Down:\* Tracked shipping selection performance against return frequencies.
-![Customer Review Dashboard] (Customer%20review%20dashboard.png)
+
+
+![Customer Review Dashboard](Customer%20review%20dashboard.png)
 
 
 \---
-
 
 
 \## 📈 Strategic Business Recommendations
