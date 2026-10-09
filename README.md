@@ -75,7 +75,7 @@ Built a dynamic corporate report to communicate findings instantly to leadership
 \* \*Demographics Map:\* Interactive visual slice filtering behavior by Age Group, Gender, and Season.
 
 \* \*Loyalty \& Channel Drill-Down:\* Tracked shipping selection performance against return frequencies.
-
+![Customer Review Dashboard] (Customer%20review%20dashboard.png)
 
 
 \---
